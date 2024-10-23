@@ -10,6 +10,8 @@ This README will contain all the images for each category, but all the source co
 
 ## 1 - Points
 
+![](src/1-points/points.png)
+
 <br>
 
 ## 2 - Lines
