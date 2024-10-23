@@ -1,10 +1,8 @@
 import folium
 import pandas as pd
 from branca.element import Figure
-from pypalettes import load_cmap
 
-df = pd.read_csv("src/1-points/earthquakes.csv")
-# df = df[df["Depth (km)"] >= 0.1]
+df = pd.read_csv("data/earthquakes.csv")
 df.sort_values(by="Magnitude", ascending=True, inplace=True)
 
 color1, color2, color3 = "#881C00FF", "#F4E3C7FF", "#1BB6AFFF"
