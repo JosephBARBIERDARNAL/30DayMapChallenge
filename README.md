@@ -4,7 +4,7 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ![](img/challenge.png)
 
-> This README will contain all the images for each category, but all the source code can be found in `src/`.
+> This README will contain all the images for each category, but all the source code and instructions on how to reproduce the graphs can be found in `src/`.
 
 <br><br><br>
 
@@ -23,5 +23,11 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 ## 3 - Polygons
 
 ![](src/3-polygons/polygons.png)
+
+<br>
+
+## 4 - Hexagons
+
+![](src/4-hexagons/hexagons.png)
 
 <br>
