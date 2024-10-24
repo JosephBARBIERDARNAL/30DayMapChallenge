@@ -7,6 +7,8 @@ packages = [
     "geoplot",
     "pyfonts",
     "drawarrow",
+    "scikit-learn",
+    "osmnx",
     "highlight_text",
     "pypalettes",
     "ridge_map",
