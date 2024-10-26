@@ -1,5 +1,3 @@
-<br>
-
 ## Installation
 
 Follow the instructions below to set up the project in your local environment.
