@@ -14,7 +14,7 @@ font = load_font(
     "https://github.com/BornaIz/markazitext/blob/master/fonts/ttf/MarkaziText-Regular.ttf?raw=true"
 )
 
-land_color = "#603232"
+land_color = "#33582d"
 sea_color = "#b7e7fb"
 axis_color = "#777777"
 line_color = "#000000"

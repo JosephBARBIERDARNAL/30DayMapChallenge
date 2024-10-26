@@ -82,7 +82,7 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ## 13 - A new tool
 
-![](src/13-a_new_tool/a_new_tool.png)
+![](src/13-a_new_tool/a_new_tool.svg)
 
 <br>
 
