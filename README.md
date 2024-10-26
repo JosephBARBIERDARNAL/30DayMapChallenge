@@ -44,6 +44,18 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
+## 7 - Vintage style
+
+![](src/7-vintage_style/vintage_style.png)
+
+<br>
+
+## 8 - HDX
+
+![]()
+
+<br>
+
 ## 9 - AI only
 
 ![](src/9-ai_only/52fa1560-b1c1-4d01-accc-417761886478.jpeg)
@@ -59,6 +71,24 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 ## 11 - Arctic
 
 ![](src/11-arctic/arctic.png)
+
+<br>
+
+## 12 - Time and space
+
+![](src/12-time_and_space/time_and_space.png)
+
+<br>
+
+## 13 - A new tool
+
+![](src/13-a_new_tool/a_new_tool.png)
+
+<br>
+
+## 14 - A world map
+
+![](src/14-a_world_map/a_world_map.png)
 
 <br>
 
