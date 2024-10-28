@@ -97,3 +97,9 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 ![](src/15-my_data/my_data.png)
 
 <br>
+
+## 16 - Choropleth
+
+![](src/16-choropleth/choropleth.png)
+
+<br>
