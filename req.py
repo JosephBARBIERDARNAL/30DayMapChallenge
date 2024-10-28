@@ -7,6 +7,8 @@ packages = [
     "geoplot",
     "pyvista",
     "plotly",
+    "wikipedia",
+    "lxml",
     "nbformat",
     "pyfonts",
     "drawarrow",

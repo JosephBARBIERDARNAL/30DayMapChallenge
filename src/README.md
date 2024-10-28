@@ -2,6 +2,8 @@
 
 Follow the instructions below to set up the project in your local environment.
 
+_Note: there are many dependencies_
+
 ### macOS/Linux
 
 ```bash
