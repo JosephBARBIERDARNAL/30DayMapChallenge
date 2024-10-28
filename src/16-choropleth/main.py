@@ -166,7 +166,7 @@ fig.text(
 )
 
 fig.text(x=0.97, y=0.1, s="#30daymapchallenge 2024", font=boldfont, size=5, ha="right")
-fig.text(x=0.97, y=0.08, s="Joseph Barbier", font=font, size=5, ha="right")
+fig.text(x=0.97, y=0.08, s="Choropleth - Joseph Barbier", font=font, size=5, ha="right")
 
 
 plt.tight_layout()
