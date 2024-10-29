@@ -76,7 +76,7 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ## 12 - Time and space
 
-![](src/12-time_and_space/time_and_space.png)
+![](src/12-time_and_space/time_and_space.gif)
 
 <br>
 
