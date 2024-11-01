@@ -10,6 +10,8 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ## 1 - Points
 
+[Browse the map](https://josephbarbierdarnal.github.io/30DayMapChallenge/earthquakes)
+
 ![](src/1-points/points.gif)
 
 <!-- <br>
