@@ -81,3 +81,4 @@ for idx, row in df.iterrows():
     ).add_to(m)
 
 m.save("src/1-points/index.html")
+m.save("docs/earthquakes.html")

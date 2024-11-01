@@ -10,9 +10,9 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ## 1 - Points
 
-![](src/1-points/points.png)
+![](src/1-points/points.gif)
 
-<br>
+<!-- <br>
 
 ## 2 - Lines
 
@@ -102,4 +102,4 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ![](src/16-choropleth/choropleth.png)
 
-<br>
+<br> -->
