@@ -14,7 +14,7 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ![](src/1-points/points.gif)
 
-<!-- <br>
+<br>
 
 ## 2 - Lines
 
@@ -22,7 +22,7 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
-## 3 - Polygons
+<!-- ## 3 - Polygons
 
 ![](src/3-polygons/polygons.png)
 
@@ -104,4 +104,5 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 ![](src/16-choropleth/choropleth.png)
 
-<br> -->
+<br>
+ -->
