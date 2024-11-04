@@ -28,13 +28,13 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
-<!-- ## 4 - Hexagons
+## 4 - Hexagons
 
 ![](src/4-hexagons/hexagons.png)
 
 <br>
 
-## 5 - A journey
+<!-- ## 5 - A journey
 
 ![](src/5-a_journey/a_journey.png)
 
