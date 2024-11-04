@@ -34,7 +34,7 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
-## 5 - A journey
+<!-- ## 5 - A journey
 
 ![](src/5-a_journey/a_journey.png)
 
@@ -105,3 +105,4 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 ![](src/16-choropleth/choropleth.png)
 
 <br>
+ -->
