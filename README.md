@@ -34,13 +34,13 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
-<!-- ## 5 - A journey
+## 5 - A journey
 
 ![](src/5-a_journey/a_journey.png)
 
 <br>
 
-## 6 - Raster
+<!-- ## 6 - Raster
 
 ![](src/6-raster/raster.png)
 
