@@ -8,6 +8,7 @@ counties = counties[["NAME", "geometry", "CODE_LOCAL"]]
 counties["CODE_LOCAL"] = counties["CODE_LOCAL"].astype(int)
 counties["centroid"] = counties["geometry"].centroid
 
+# https://data.humdata.org/dataset/social-connectedness-index
 df = pd.read_csv("data/county_county.tsv", sep="\t")
 df = df.rename(columns={"user_loc": "start", "fr_loc": "end", "scaled_sci": "SCI"})
 df = df.merge(counties, how="inner", left_on="start", right_on="CODE_LOCAL").drop(
