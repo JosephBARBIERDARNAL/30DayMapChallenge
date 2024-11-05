@@ -4,4 +4,4 @@ cache/
 *.zip*
 *.zip
 
-county_county.tsv
+data/county_county.tsv
