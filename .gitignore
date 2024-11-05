@@ -3,3 +3,5 @@ venv/
 cache/
 *.zip*
 *.zip
+
+county_county.tsv
