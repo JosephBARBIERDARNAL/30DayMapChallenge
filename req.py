@@ -22,6 +22,8 @@ packages = [
     "cartopy",
     "h3",
     "h3pandas",
+    "streamlit",
+    "watchdog",
 ]
 
 

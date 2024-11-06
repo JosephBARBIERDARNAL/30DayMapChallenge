@@ -40,13 +40,13 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
-<!-- ## 6 - Raster
+## 6 - Raster
 
 ![](src/6-raster/raster.png)
 
 <br>
 
-## 7 - Vintage style
+<!-- ## 7 - Vintage style
 
 ![](src/7-vintage_style/vintage_style.png)
 
