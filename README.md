@@ -46,13 +46,13 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
-<!-- ## 7 - Vintage style
+## 7 - Vintage style
 
 ![](src/7-vintage_style/vintage_style.png)
 
 <br>
 
-## 8 - HDX
+<!-- ## 8 - HDX
 
 ![]()
 
