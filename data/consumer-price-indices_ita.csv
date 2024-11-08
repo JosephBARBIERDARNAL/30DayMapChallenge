@@ -1,0 +1,862 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+ITA,2000-01-01,2000-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,70.989300,X,base year is 2015
+ITA,2001-01-01,2001-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,73.128340,X,base year is 2015
+ITA,2002-01-01,2002-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,76.737970,X,base year is 2015
+ITA,2003-01-01,2003-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,78.676470,X,base year is 2015
+ITA,2004-01-01,2004-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,81.818180,X,base year is 2015
+ITA,2005-01-01,2005-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,81.283420,X,base year is 2015
+ITA,2006-01-01,2006-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,82.152400,X,base year is 2015
+ITA,2007-01-01,2007-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,84.291440,X,base year is 2015
+ITA,2008-01-01,2008-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,88.101600,X,base year is 2015
+ITA,2009-01-01,2009-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,91.443850,X,base year is 2015
+ITA,2010-01-01,2010-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,91.711230,X,base year is 2015
+ITA,2011-01-01,2011-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,93.198530,X,base year is 2015
+ITA,2012-01-01,2012-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,95.404410,X,base year is 2015
+ITA,2013-01-01,2013-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,98.345590,X,base year is 2015
+ITA,2014-01-01,2014-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,99.632350,X,base year is 2015
+ITA,2015-01-01,2015-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.724270,X,base year is 2015
+ITA,2016-01-01,2016-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.100000,X,base year is 2015
+ITA,2017-01-01,2017-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,102.400000,X,base year is 2015
+ITA,2018-01-01,2018-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,103.700000,X,base year is 2015
+ITA,2019-01-01,2019-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,104.400000,X,base year is 2015
+ITA,2020-01-01,2020-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,105.000000,X,base year is 2015
+ITA,2021-01-01,2021-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,105.700000,X,base year is 2015
+ITA,2022-01-01,2022-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,109.500000,X,base year is 2015
+ITA,2023-01-01,2023-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,123.300000,X,base year is 2015
+ITA,2024-01-01,2024-01-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,130.400000,X,base year is 2015
+ITA,2000-02-01,2000-02-29,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,71.189840,X,base year is 2015
+ITA,2001-02-01,2001-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,73.729950,X,base year is 2015
+ITA,2002-02-01,2002-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,76.938500,X,base year is 2015
+ITA,2003-02-01,2003-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,78.743320,X,base year is 2015
+ITA,2004-02-01,2004-02-29,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,81.885030,X,base year is 2015
+ITA,2005-02-01,2005-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,81.550800,X,base year is 2015
+ITA,2006-02-01,2006-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,82.286090,X,base year is 2015
+ITA,2007-02-01,2007-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,84.358290,X,base year is 2015
+ITA,2008-02-01,2008-02-29,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,88.502670,X,base year is 2015
+ITA,2009-02-01,2009-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,91.577540,X,base year is 2015
+ITA,2010-02-01,2010-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,91.711230,X,base year is 2015
+ITA,2011-02-01,2011-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,93.566180,X,base year is 2015
+ITA,2012-02-01,2012-02-29,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,96.139710,X,base year is 2015
+ITA,2013-02-01,2013-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,98.437500,X,base year is 2015
+ITA,2014-02-01,2014-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,99.356620,X,base year is 2015
+ITA,2015-02-01,2015-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,100.367600,X,base year is 2015
+ITA,2016-02-01,2016-02-29,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.000000,X,base year is 2015
+ITA,2017-02-01,2017-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,103.800000,X,base year is 2015
+ITA,2018-02-01,2018-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,103.000000,X,base year is 2015
+ITA,2019-02-01,2019-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,104.800000,X,base year is 2015
+ITA,2020-02-01,2020-02-29,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,105.100000,X,base year is 2015
+ITA,2021-02-01,2021-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,105.500000,X,base year is 2015
+ITA,2022-02-01,2022-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,110.600000,X,base year is 2015
+ITA,2023-02-01,2023-02-28,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,125.200000,X,base year is 2015
+ITA,2024-02-01,2024-02-29,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,130.100000,X,base year is 2015
+ITA,2000-03-01,2000-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,71.457220,X,base year is 2015
+ITA,2001-03-01,2001-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,73.930480,X,base year is 2015
+ITA,2002-03-01,2002-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,77.072190,X,base year is 2015
+ITA,2003-03-01,2003-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,78.943850,X,base year is 2015
+ITA,2004-03-01,2004-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,81.885030,X,base year is 2015
+ITA,2005-03-01,2005-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,81.684490,X,base year is 2015
+ITA,2006-03-01,2006-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,82.486630,X,base year is 2015
+ITA,2007-03-01,2007-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,84.425130,X,base year is 2015
+ITA,2008-03-01,2008-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,89.037430,X,base year is 2015
+ITA,2009-03-01,2009-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,91.711230,X,base year is 2015
+ITA,2010-03-01,2010-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,91.711230,X,base year is 2015
+ITA,2011-03-01,2011-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,93.841910,X,base year is 2015
+ITA,2012-03-01,2012-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,96.231620,X,base year is 2015
+ITA,2013-03-01,2013-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,98.529410,X,base year is 2015
+ITA,2014-03-01,2014-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,99.080880,X,base year is 2015
+ITA,2015-03-01,2015-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,100.183800,X,base year is 2015
+ITA,2016-03-01,2016-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,99.800000,X,base year is 2015
+ITA,2017-03-01,2017-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,102.600000,X,base year is 2015
+ITA,2018-03-01,2018-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,103.100000,X,base year is 2015
+ITA,2019-03-01,2019-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,104.200000,X,base year is 2015
+ITA,2020-03-01,2020-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,105.300000,X,base year is 2015
+ITA,2021-03-01,2021-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,105.500000,X,base year is 2015
+ITA,2022-03-01,2022-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,111.600000,X,base year is 2015
+ITA,2023-03-01,2023-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,126.300000,X,base year is 2015
+ITA,2024-03-01,2024-03-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,129.900000,X,base year is 2015
+ITA,2000-04-01,2000-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,71.791440,X,base year is 2015
+ITA,2001-04-01,2001-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,74.398400,X,base year is 2015
+ITA,2002-04-01,2002-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,77.540110,X,base year is 2015
+ITA,2003-04-01,2003-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,79.278080,X,base year is 2015
+ITA,2004-04-01,2004-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,81.951870,X,base year is 2015
+ITA,2005-04-01,2005-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,81.818180,X,base year is 2015
+ITA,2006-04-01,2006-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,82.553470,X,base year is 2015
+ITA,2007-04-01,2007-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,84.759360,X,base year is 2015
+ITA,2008-04-01,2008-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,89.505350,X,base year is 2015
+ITA,2009-04-01,2009-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,91.911770,X,base year is 2015
+ITA,2010-04-01,2010-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,91.711230,X,base year is 2015
+ITA,2011-04-01,2011-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,93.841910,X,base year is 2015
+ITA,2012-04-01,2012-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,96.139710,X,base year is 2015
+ITA,2013-04-01,2013-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,98.713230,X,base year is 2015
+ITA,2014-04-01,2014-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,99.080880,X,base year is 2015
+ITA,2015-04-01,2015-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.091900,X,base year is 2015
+ITA,2016-04-01,2016-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,100.000000,X,base year is 2015
+ITA,2017-04-01,2017-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,102.200000,X,base year is 2015
+ITA,2018-04-01,2018-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,103.400000,X,base year is 2015
+ITA,2019-04-01,2019-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,103.800000,X,base year is 2015
+ITA,2020-04-01,2020-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,106.700000,X,base year is 2015
+ITA,2021-04-01,2021-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,106.200000,X,base year is 2015
+ITA,2022-04-01,2022-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,113.000000,X,base year is 2015
+ITA,2023-04-01,2023-04-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,126.700000,X,base year is 2015
+ITA,2000-05-01,2000-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,71.925130,X,base year is 2015
+ITA,2001-05-01,2001-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,74.799470,X,base year is 2015
+ITA,2002-05-01,2002-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,77.807490,X,base year is 2015
+ITA,2003-05-01,2003-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,79.612300,X,base year is 2015
+ITA,2004-05-01,2004-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,82.085560,X,base year is 2015
+ITA,2005-05-01,2005-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,81.951870,X,base year is 2015
+ITA,2006-05-01,2006-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,82.754010,X,base year is 2015
+ITA,2007-05-01,2007-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,84.959890,X,base year is 2015
+ITA,2008-05-01,2008-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,89.906420,X,base year is 2015
+ITA,2009-05-01,2009-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,92.112300,X,base year is 2015
+ITA,2010-05-01,2010-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,91.711230,X,base year is 2015
+ITA,2011-05-01,2011-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,94.485290,X,base year is 2015
+ITA,2012-05-01,2012-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,96.415440,X,base year is 2015
+ITA,2013-05-01,2013-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,99.356620,X,base year is 2015
+ITA,2014-05-01,2014-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,99.172790,X,base year is 2015
+ITA,2015-05-01,2015-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,100.183800,X,base year is 2015
+ITA,2016-05-01,2016-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,100.400000,X,base year is 2015
+ITA,2017-05-01,2017-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,102.300000,X,base year is 2015
+ITA,2018-05-01,2018-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,104.200000,X,base year is 2015
+ITA,2019-05-01,2019-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,104.600000,X,base year is 2015
+ITA,2020-05-01,2020-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,107.300000,X,base year is 2015
+ITA,2021-05-01,2021-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,106.500000,X,base year is 2015
+ITA,2022-05-01,2022-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,114.400000,X,base year is 2015
+ITA,2023-05-01,2023-05-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,127.900000,X,base year is 2015
+ITA,2000-06-01,2000-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,71.991980,X,base year is 2015
+ITA,2001-06-01,2001-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,75.133690,X,base year is 2015
+ITA,2002-06-01,2002-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,77.606950,X,base year is 2015
+ITA,2003-06-01,2003-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,79.879680,X,base year is 2015
+ITA,2004-06-01,2004-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,82.152400,X,base year is 2015
+ITA,2005-06-01,2005-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,81.951870,X,base year is 2015
+ITA,2006-06-01,2006-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,83.021390,X,base year is 2015
+ITA,2007-06-01,2007-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,85.093580,X,base year is 2015
+ITA,2008-06-01,2008-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,90.307490,X,base year is 2015
+ITA,2009-06-01,2009-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,92.045460,X,base year is 2015
+ITA,2010-06-01,2010-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,91.778080,X,base year is 2015
+ITA,2011-06-01,2011-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,94.577210,X,base year is 2015
+ITA,2012-06-01,2012-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,97.150730,X,base year is 2015
+ITA,2013-06-01,2013-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,99.908090,X,base year is 2015
+ITA,2014-06-01,2014-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,99.264710,X,base year is 2015
+ITA,2015-06-01,2015-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.275700,X,base year is 2015
+ITA,2016-06-01,2016-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,100.500000,X,base year is 2015
+ITA,2017-06-01,2017-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,101.500000,X,base year is 2015
+ITA,2018-06-01,2018-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,103.900000,X,base year is 2015
+ITA,2019-06-01,2019-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,104.200000,X,base year is 2015
+ITA,2020-06-01,2020-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,106.700000,X,base year is 2015
+ITA,2021-06-01,2021-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,106.100000,X,base year is 2015
+ITA,2022-06-01,2022-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,115.700000,X,base year is 2015
+ITA,2023-06-01,2023-06-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,128.400000,X,base year is 2015
+ITA,2000-07-01,2000-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,71.858290,X,base year is 2015
+ITA,2001-07-01,2001-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,75.200530,X,base year is 2015
+ITA,2002-07-01,2002-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,77.406420,X,base year is 2015
+ITA,2003-07-01,2003-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,79.946530,X,base year is 2015
+ITA,2004-07-01,2004-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,81.818180,X,base year is 2015
+ITA,2005-07-01,2005-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,81.617650,X,base year is 2015
+ITA,2006-07-01,2006-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,83.088230,X,base year is 2015
+ITA,2007-07-01,2007-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,85.093580,X,base year is 2015
+ITA,2008-07-01,2008-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,90.441180,X,base year is 2015
+ITA,2009-07-01,2009-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,91.778080,X,base year is 2015
+ITA,2010-07-01,2010-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,91.711230,X,base year is 2015
+ITA,2011-07-01,2011-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,93.841910,X,base year is 2015
+ITA,2012-07-01,2012-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,96.231620,X,base year is 2015
+ITA,2013-07-01,2013-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,99.080880,X,base year is 2015
+ITA,2014-07-01,2014-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,98.345590,X,base year is 2015
+ITA,2015-07-01,2015-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.172790,X,base year is 2015
+ITA,2016-07-01,2016-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,99.800000,X,base year is 2015
+ITA,2017-07-01,2017-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,100.700000,X,base year is 2015
+ITA,2018-07-01,2018-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,103.100000,X,base year is 2015
+ITA,2019-07-01,2019-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,103.900000,X,base year is 2015
+ITA,2020-07-01,2020-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,105.400000,X,base year is 2015
+ITA,2021-07-01,2021-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,105.500000,X,base year is 2015
+ITA,2022-07-01,2022-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,116.000000,X,base year is 2015
+ITA,2023-07-01,2023-07-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,128.400000,X,base year is 2015
+ITA,2000-08-01,2000-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,71.791440,X,base year is 2015
+ITA,2001-08-01,2001-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,75.133690,X,base year is 2015
+ITA,2002-08-01,2002-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,77.272730,X,base year is 2015
+ITA,2003-08-01,2003-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,80.080220,X,base year is 2015
+ITA,2004-08-01,2004-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,81.617650,X,base year is 2015
+ITA,2005-08-01,2005-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,81.483960,X,base year is 2015
+ITA,2006-08-01,2006-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,83.288770,X,base year is 2015
+ITA,2007-08-01,2007-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,85.294120,X,base year is 2015
+ITA,2008-08-01,2008-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,90.641710,X,base year is 2015
+ITA,2009-08-01,2009-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,91.577540,X,base year is 2015
+ITA,2010-08-01,2010-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,91.711230,X,base year is 2015
+ITA,2011-08-01,2011-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,93.750000,X,base year is 2015
+ITA,2012-08-01,2012-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,96.139710,X,base year is 2015
+ITA,2013-08-01,2013-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,98.713230,X,base year is 2015
+ITA,2014-08-01,2014-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.253680,X,base year is 2015
+ITA,2015-08-01,2015-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.172790,X,base year is 2015
+ITA,2016-08-01,2016-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,100.100000,X,base year is 2015
+ITA,2017-08-01,2017-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,100.900000,X,base year is 2015
+ITA,2018-08-01,2018-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,103.100000,X,base year is 2015
+ITA,2019-08-01,2019-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,104.000000,X,base year is 2015
+ITA,2020-08-01,2020-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,105.100000,X,base year is 2015
+ITA,2021-08-01,2021-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,105.900000,X,base year is 2015
+ITA,2022-08-01,2022-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,117.000000,X,base year is 2015
+ITA,2023-08-01,2023-08-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,128.600000,X,base year is 2015
+ITA,2000-09-01,2000-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,71.925130,X,base year is 2015
+ITA,2001-09-01,2001-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,75.200530,X,base year is 2015
+ITA,2002-09-01,2002-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,77.540110,X,base year is 2015
+ITA,2003-09-01,2003-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,80.614970,X,base year is 2015
+ITA,2004-09-01,2004-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,81.483960,X,base year is 2015
+ITA,2005-09-01,2005-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,81.550800,X,base year is 2015
+ITA,2006-09-01,2006-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,83.556150,X,base year is 2015
+ITA,2007-09-01,2007-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,85.962570,X,base year is 2015
+ITA,2008-09-01,2008-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,90.909090,X,base year is 2015
+ITA,2009-09-01,2009-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,91.577540,X,base year is 2015
+ITA,2010-09-01,2010-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,91.911770,X,base year is 2015
+ITA,2011-09-01,2011-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,94.025730,X,base year is 2015
+ITA,2012-09-01,2012-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,96.691180,X,base year is 2015
+ITA,2013-09-01,2013-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,98.529410,X,base year is 2015
+ITA,2014-09-01,2014-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,98.437500,X,base year is 2015
+ITA,2015-09-01,2015-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,99.908090,X,base year is 2015
+ITA,2016-09-01,2016-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,100.000000,X,base year is 2015
+ITA,2017-09-01,2017-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,101.400000,X,base year is 2015
+ITA,2018-09-01,2018-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,102.900000,X,base year is 2015
+ITA,2019-09-01,2019-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,103.600000,X,base year is 2015
+ITA,2020-09-01,2020-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,104.800000,X,base year is 2015
+ITA,2021-09-01,2021-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,106.000000,X,base year is 2015
+ITA,2022-09-01,2022-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,118.400000,X,base year is 2015
+ITA,2023-09-01,2023-09-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,128.500000,X,base year is 2015
+ITA,2000-10-01,2000-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,72.125670,X,base year is 2015
+ITA,2001-10-01,2001-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,75.401070,X,base year is 2015
+ITA,2002-10-01,2002-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,77.807490,X,base year is 2015
+ITA,2003-10-01,2003-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,81.082890,X,base year is 2015
+ITA,2004-10-01,2004-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,81.350270,X,base year is 2015
+ITA,2005-10-01,2005-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,81.550800,X,base year is 2015
+ITA,2006-10-01,2006-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,83.756680,X,base year is 2015
+ITA,2007-10-01,2007-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,86.631020,X,base year is 2015
+ITA,2008-10-01,2008-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,91.109630,X,base year is 2015
+ITA,2009-10-01,2009-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,91.644390,X,base year is 2015
+ITA,2010-10-01,2010-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,92.179150,X,base year is 2015
+ITA,2011-10-01,2011-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,94.485290,X,base year is 2015
+ITA,2012-10-01,2012-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,96.966910,X,base year is 2015
+ITA,2013-10-01,2013-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,98.345590,X,base year is 2015
+ITA,2014-10-01,2014-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,98.437500,X,base year is 2015
+ITA,2015-10-01,2015-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.275700,X,base year is 2015
+ITA,2016-10-01,2016-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,100.100000,X,base year is 2015
+ITA,2017-10-01,2017-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,102.200000,X,base year is 2015
+ITA,2018-10-01,2018-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,102.900000,X,base year is 2015
+ITA,2019-10-01,2019-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,103.700000,X,base year is 2015
+ITA,2020-10-01,2020-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,105.100000,X,base year is 2015
+ITA,2021-10-01,2021-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,106.300000,X,base year is 2015
+ITA,2022-10-01,2022-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,120.700000,X,base year is 2015
+ITA,2023-10-01,2023-10-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,128.500000,X,base year is 2015
+ITA,2000-11-01,2000-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,72.259360,X,base year is 2015
+ITA,2001-11-01,2001-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,75.534760,X,base year is 2015
+ITA,2002-11-01,2002-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,78.074870,X,base year is 2015
+ITA,2003-11-01,2003-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,81.283420,X,base year is 2015
+ITA,2004-11-01,2004-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,81.149730,X,base year is 2015
+ITA,2005-11-01,2005-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,81.617650,X,base year is 2015
+ITA,2006-11-01,2006-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,83.957220,X,base year is 2015
+ITA,2007-11-01,2007-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,87.098930,X,base year is 2015
+ITA,2008-11-01,2008-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,91.176470,X,base year is 2015
+ITA,2009-11-01,2009-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,91.644390,X,base year is 2015
+ITA,2010-11-01,2010-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,92.245990,X,base year is 2015
+ITA,2011-11-01,2011-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,95.128680,X,base year is 2015
+ITA,2012-11-01,2012-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,97.334560,X,base year is 2015
+ITA,2013-11-01,2013-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,98.621320,X,base year is 2015
+ITA,2014-11-01,2014-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.080880,X,base year is 2015
+ITA,2015-11-01,2015-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.551500,X,base year is 2015
+ITA,2016-11-01,2016-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,100.600000,X,base year is 2015
+ITA,2017-11-01,2017-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,102.500000,X,base year is 2015
+ITA,2018-11-01,2018-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,103.400000,X,base year is 2015
+ITA,2019-11-01,2019-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,104.200000,X,base year is 2015
+ITA,2020-11-01,2020-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,105.600000,X,base year is 2015
+ITA,2021-11-01,2021-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,107.200000,X,base year is 2015
+ITA,2022-11-01,2022-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,121.800000,X,base year is 2015
+ITA,2023-11-01,2023-11-30,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,129.000000,X,base year is 2015
+ITA,2000-12-01,2000-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,72.794120,X,base year is 2015
+ITA,2001-12-01,2001-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,75.935830,X,base year is 2015
+ITA,2002-12-01,2002-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,78.409090,X,base year is 2015
+ITA,2003-12-01,2003-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,81.483960,X,base year is 2015
+ITA,2004-12-01,2004-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,81.216580,X,base year is 2015
+ITA,2005-12-01,2005-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,81.885030,X,base year is 2015
+ITA,2006-12-01,2006-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,84.090910,X,base year is 2015
+ITA,2007-12-01,2007-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,87.566840,X,base year is 2015
+ITA,2008-12-01,2008-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,91.310160,X,base year is 2015
+ITA,2009-12-01,2009-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,91.711230,X,base year is 2015
+ITA,2010-12-01,2010-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,92.446530,X,base year is 2015
+ITA,2011-12-01,2011-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,95.128680,X,base year is 2015
+ITA,2012-12-01,2012-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,97.610290,X,base year is 2015
+ITA,2013-12-01,2013-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,99.264710,X,base year is 2015
+ITA,2014-12-01,2014-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.080880,X,base year is 2015
+ITA,2015-12-01,2015-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.275700,X,base year is 2015
+ITA,2016-12-01,2016-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,101.100000,X,base year is 2015
+ITA,2017-12-01,2017-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,102.600000,X,base year is 2015
+ITA,2018-12-01,2018-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,103.400000,X,base year is 2015
+ITA,2019-12-01,2019-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,104.200000,X,base year is 2015
+ITA,2020-12-01,2020-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,105.000000,X,base year is 2015
+ITA,2021-12-01,2021-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,108.000000,X,base year is 2015
+ITA,2022-12-01,2022-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,122.200000,X,base year is 2015
+ITA,2023-12-01,2023-12-31,106,'380,Italy,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,129.400000,X,base year is 2015
+ITA,2000-01-01,2000-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,74.082539,X,base year is 2015
+ITA,2001-01-01,2001-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,76.279049,X,base year is 2015
+ITA,2002-01-01,2002-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,78.076203,X,base year is 2015
+ITA,2003-01-01,2003-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,80.272722,X,base year is 2015
+ITA,2004-01-01,2004-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,82.069866,X,base year is 2015
+ITA,2005-01-01,2005-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,83.600777,X,base year is 2015
+ITA,2006-01-01,2006-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,85.464491,X,base year is 2015
+ITA,2007-01-01,2007-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,86.928831,X,base year is 2015
+ITA,2008-01-01,2008-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,89.524716,X,base year is 2015
+ITA,2009-01-01,2009-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,90.989065,X,base year is 2015
+ITA,2010-01-01,2010-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,92.187161,X,base year is 2015
+ITA,2011-01-01,2011-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,94.169083,X,base year is 2015
+ITA,2012-01-01,2012-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,97.146768,X,base year is 2015
+ITA,2013-01-01,2013-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,99.286969,X,base year is 2015
+ITA,2014-01-01,2014-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,99.938334,X,base year is 2015
+ITA,2015-01-01,2015-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.380029,X,base year is 2015
+ITA,2016-01-01,2016-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,99.631267,X,base year is 2015
+ITA,2017-01-01,2017-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,100.631581,X,base year is 2015
+ITA,2018-01-01,2018-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,101.531864,X,base year is 2015
+ITA,2019-01-01,2019-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,102.432146,X,base year is 2015
+ITA,2020-01-01,2020-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,102.932303,X,base year is 2015
+ITA,2021-01-01,2021-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,103.332429,X,base year is 2015
+ITA,2022-01-01,2022-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,108.333999,X,base year is 2015
+ITA,2023-01-01,2023-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,119.137389,X,base year is 2015
+ITA,2024-01-01,2024-01-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,120.137703,X,base year is 2015
+ITA,2000-02-01,2000-02-29,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,74.348783,X,base year is 2015
+ITA,2001-02-01,2001-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,76.545302,X,base year is 2015
+ITA,2002-02-01,2002-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,78.342446,X,base year is 2015
+ITA,2003-02-01,2003-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,80.405844,X,base year is 2015
+ITA,2004-02-01,2004-02-29,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,82.269559,X,base year is 2015
+ITA,2005-02-01,2005-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,83.867030,X,base year is 2015
+ITA,2006-02-01,2006-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,85.664174,X,base year is 2015
+ITA,2007-02-01,2007-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,87.195085,X,base year is 2015
+ITA,2008-02-01,2008-02-29,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,89.724398,X,base year is 2015
+ITA,2009-02-01,2009-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,91.188748,X,base year is 2015
+ITA,2010-02-01,2010-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,92.253722,X,base year is 2015
+ITA,2011-02-01,2011-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,94.448241,X,base year is 2015
+ITA,2012-02-01,2012-02-29,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,97.518975,X,base year is 2015
+ITA,2013-02-01,2013-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,99.380029,X,base year is 2015
+ITA,2014-02-01,2014-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,99.845295,X,base year is 2015
+ITA,2015-02-01,2015-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.752235,X,base year is 2015
+ITA,2016-02-01,2016-02-29,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,99.431205,X,base year is 2015
+ITA,2017-02-01,2017-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,101.031707,X,base year is 2015
+ITA,2018-02-01,2018-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,101.531864,X,base year is 2015
+ITA,2019-02-01,2019-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,102.532178,X,base year is 2015
+ITA,2020-02-01,2020-02-29,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,102.832272,X,base year is 2015
+ITA,2021-02-01,2021-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,103.432460,X,base year is 2015
+ITA,2022-02-01,2022-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,109.334313,X,base year is 2015
+ITA,2023-02-01,2023-02-28,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,119.337452,X,base year is 2015
+ITA,2024-02-01,2024-02-29,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,120.237734,X,base year is 2015
+ITA,2000-03-01,2000-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,74.548466,X,base year is 2015
+ITA,2001-03-01,2001-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,76.611853,X,base year is 2015
+ITA,2002-03-01,2002-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,78.542139,X,base year is 2015
+ITA,2003-03-01,2003-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,80.672087,X,base year is 2015
+ITA,2004-03-01,2004-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,82.535802,X,base year is 2015
+ITA,2005-03-01,2005-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,84.133264,X,base year is 2015
+ITA,2006-03-01,2006-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,85.863857,X,base year is 2015
+ITA,2007-03-01,2007-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,87.328206,X,base year is 2015
+ITA,2008-03-01,2008-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,90.190335,X,base year is 2015
+ITA,2009-03-01,2009-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,91.255309,X,base year is 2015
+ITA,2010-03-01,2010-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,92.519976,X,base year is 2015
+ITA,2011-03-01,2011-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,94.820458,X,base year is 2015
+ITA,2012-03-01,2012-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,97.984241,X,base year is 2015
+ITA,2013-03-01,2013-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,99.566127,X,base year is 2015
+ITA,2014-03-01,2014-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,99.938334,X,base year is 2015
+ITA,2015-03-01,2015-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.845295,X,base year is 2015
+ITA,2016-03-01,2016-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,99.631267,X,base year is 2015
+ITA,2017-03-01,2017-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,101.031707,X,base year is 2015
+ITA,2018-03-01,2018-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,101.831958,X,base year is 2015
+ITA,2019-03-01,2019-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,102.832272,X,base year is 2015
+ITA,2020-03-01,2020-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,102.932303,X,base year is 2015
+ITA,2021-03-01,2021-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,103.732555,X,base year is 2015
+ITA,2022-03-01,2022-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,110.434658,X,base year is 2015
+ITA,2023-03-01,2023-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,118.837295,X,base year is 2015
+ITA,2024-03-01,2024-03-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,120.237734,X,base year is 2015
+ITA,2000-04-01,2000-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,74.615027,X,base year is 2015
+ITA,2001-04-01,2001-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,76.944668,X,base year is 2015
+ITA,2002-04-01,2002-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,78.741812,X,base year is 2015
+ITA,2003-04-01,2003-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,80.871770,X,base year is 2015
+ITA,2004-04-01,2004-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,82.735485,X,base year is 2015
+ITA,2005-04-01,2005-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,84.266385,X,base year is 2015
+ITA,2006-04-01,2006-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,86.130100,X,base year is 2015
+ITA,2007-04-01,2007-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,87.461328,X,base year is 2015
+ITA,2008-04-01,2008-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,90.390017,X,base year is 2015
+ITA,2009-04-01,2009-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,91.454991,X,base year is 2015
+ITA,2010-04-01,2010-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,92.852770,X,base year is 2015
+ITA,2011-04-01,2011-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,95.285714,X,base year is 2015
+ITA,2012-04-01,2012-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,98.449497,X,base year is 2015
+ITA,2013-04-01,2013-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,99.566127,X,base year is 2015
+ITA,2014-04-01,2014-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,100.124422,X,base year is 2015
+ITA,2015-04-01,2015-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.031393,X,base year is 2015
+ITA,2016-04-01,2016-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,99.531236,X,base year is 2015
+ITA,2017-04-01,2017-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,101.431833,X,base year is 2015
+ITA,2018-04-01,2018-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,101.931990,X,base year is 2015
+ITA,2019-04-01,2019-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,103.032335,X,base year is 2015
+ITA,2020-04-01,2020-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,103.032335,X,base year is 2015
+ITA,2021-04-01,2021-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,104.132680,X,base year is 2015
+ITA,2022-04-01,2022-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,110.334627,X,base year is 2015
+ITA,2023-04-01,2023-04-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,119.337452,X,base year is 2015
+ITA,2000-05-01,2000-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,74.881270,X,base year is 2015
+ITA,2001-05-01,2001-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,77.144350,X,base year is 2015
+ITA,2002-05-01,2002-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,78.941504,X,base year is 2015
+ITA,2003-05-01,2003-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,81.071453,X,base year is 2015
+ITA,2004-05-01,2004-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,82.935168,X,base year is 2015
+ITA,2005-05-01,2005-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,84.532629,X,base year is 2015
+ITA,2006-05-01,2006-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,86.396344,X,base year is 2015
+ITA,2007-05-01,2007-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,87.727572,X,base year is 2015
+ITA,2008-05-01,2008-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,90.855943,X,base year is 2015
+ITA,2009-05-01,2009-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,91.654674,X,base year is 2015
+ITA,2010-05-01,2010-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,92.919331,X,base year is 2015
+ITA,2011-05-01,2011-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,95.378773,X,base year is 2015
+ITA,2012-05-01,2012-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,98.449497,X,base year is 2015
+ITA,2013-05-01,2013-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,99.566127,X,base year is 2015
+ITA,2014-05-01,2014-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,100.031393,X,base year is 2015
+ITA,2015-05-01,2015-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,100.124422,X,base year is 2015
+ITA,2016-05-01,2016-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,99.831330,X,base year is 2015
+ITA,2017-05-01,2017-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,101.231770,X,base year is 2015
+ITA,2018-05-01,2018-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,102.232084,X,base year is 2015
+ITA,2019-05-01,2019-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,103.032335,X,base year is 2015
+ITA,2020-05-01,2020-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,102.832272,X,base year is 2015
+ITA,2021-05-01,2021-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,104.132680,X,base year is 2015
+ITA,2022-05-01,2022-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,111.234909,X,base year is 2015
+ITA,2023-05-01,2023-05-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,119.737577,X,base year is 2015
+ITA,2000-06-01,2000-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,75.080953,X,base year is 2015
+ITA,2001-06-01,2001-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,77.344033,X,base year is 2015
+ITA,2002-06-01,2002-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,79.008065,X,base year is 2015
+ITA,2003-06-01,2003-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,81.138024,X,base year is 2015
+ITA,2004-06-01,2004-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,83.068289,X,base year is 2015
+ITA,2005-06-01,2005-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,84.532629,X,base year is 2015
+ITA,2006-06-01,2006-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,86.462915,X,base year is 2015
+ITA,2007-06-01,2007-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,87.927254,X,base year is 2015
+ITA,2008-06-01,2008-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,91.255309,X,base year is 2015
+ITA,2009-06-01,2009-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,91.721235,X,base year is 2015
+ITA,2010-06-01,2010-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,92.919331,X,base year is 2015
+ITA,2011-06-01,2011-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,95.471822,X,base year is 2015
+ITA,2012-06-01,2012-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,98.635605,X,base year is 2015
+ITA,2013-06-01,2013-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,99.845295,X,base year is 2015
+ITA,2014-06-01,2014-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,100.124422,X,base year is 2015
+ITA,2015-06-01,2015-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.310581,X,base year is 2015
+ITA,2016-06-01,2016-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,99.931362,X,base year is 2015
+ITA,2017-06-01,2017-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,101.131738,X,base year is 2015
+ITA,2018-06-01,2018-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,102.432146,X,base year is 2015
+ITA,2019-06-01,2019-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,103.132366,X,base year is 2015
+ITA,2020-06-01,2020-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,102.932303,X,base year is 2015
+ITA,2021-06-01,2021-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,104.232712,X,base year is 2015
+ITA,2022-06-01,2022-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,112.535317,X,base year is 2015
+ITA,2023-06-01,2023-06-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,119.737577,X,base year is 2015
+ITA,2000-07-01,2000-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,75.214075,X,base year is 2015
+ITA,2001-07-01,2001-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,77.410594,X,base year is 2015
+ITA,2002-07-01,2002-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,79.141187,X,base year is 2015
+ITA,2003-07-01,2003-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,81.271145,X,base year is 2015
+ITA,2004-07-01,2004-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,83.134850,X,base year is 2015
+ITA,2005-07-01,2005-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,84.865443,X,base year is 2015
+ITA,2006-07-01,2006-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,86.729148,X,base year is 2015
+ITA,2007-07-01,2007-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,88.126937,X,base year is 2015
+ITA,2008-07-01,2008-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,91.721235,X,base year is 2015
+ITA,2009-07-01,2009-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,91.721235,X,base year is 2015
+ITA,2010-07-01,2010-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,93.252145,X,base year is 2015
+ITA,2011-07-01,2011-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,95.750980,X,base year is 2015
+ITA,2012-07-01,2012-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,98.728664,X,base year is 2015
+ITA,2013-07-01,2013-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,99.938334,X,base year is 2015
+ITA,2014-07-01,2014-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,100.031393,X,base year is 2015
+ITA,2015-07-01,2015-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,100.217451,X,base year is 2015
+ITA,2016-07-01,2016-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,100.131424,X,base year is 2015
+ITA,2017-07-01,2017-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,101.231770,X,base year is 2015
+ITA,2018-07-01,2018-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,102.732241,X,base year is 2015
+ITA,2019-07-01,2019-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,103.132366,X,base year is 2015
+ITA,2020-07-01,2020-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,102.732241,X,base year is 2015
+ITA,2021-07-01,2021-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,104.732869,X,base year is 2015
+ITA,2022-07-01,2022-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,113.035474,X,base year is 2015
+ITA,2023-07-01,2023-07-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,119.737577,X,base year is 2015
+ITA,2000-08-01,2000-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,75.280635,X,base year is 2015
+ITA,2001-08-01,2001-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,77.410594,X,base year is 2015
+ITA,2002-08-01,2002-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,79.274309,X,base year is 2015
+ITA,2003-08-01,2003-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,81.470818,X,base year is 2015
+ITA,2004-08-01,2004-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,83.334533,X,base year is 2015
+ITA,2005-08-01,2005-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,84.998565,X,base year is 2015
+ITA,2006-08-01,2006-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,86.862270,X,base year is 2015
+ITA,2007-08-01,2007-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,88.260059,X,base year is 2015
+ITA,2008-08-01,2008-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,91.854357,X,base year is 2015
+ITA,2009-08-01,2009-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,91.987479,X,base year is 2015
+ITA,2010-08-01,2010-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,93.451828,X,base year is 2015
+ITA,2011-08-01,2011-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,96.030137,X,base year is 2015
+ITA,2012-08-01,2012-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,99.100871,X,base year is 2015
+ITA,2013-08-01,2013-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,100.310581,X,base year is 2015
+ITA,2014-08-01,2014-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,100.217451,X,base year is 2015
+ITA,2015-08-01,2015-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.403610,X,base year is 2015
+ITA,2016-08-01,2016-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,100.331487,X,base year is 2015
+ITA,2017-08-01,2017-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,101.531864,X,base year is 2015
+ITA,2018-08-01,2018-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,103.132366,X,base year is 2015
+ITA,2019-08-01,2019-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,103.532492,X,base year is 2015
+ITA,2020-08-01,2020-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,103.032335,X,base year is 2015
+ITA,2021-08-01,2021-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,105.132994,X,base year is 2015
+ITA,2022-08-01,2022-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,113.935757,X,base year is 2015
+ITA,2023-08-01,2023-08-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,120.137703,X,base year is 2015
+ITA,2000-09-01,2000-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,75.413757,X,base year is 2015
+ITA,2001-09-01,2001-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,77.410594,X,base year is 2015
+ITA,2002-09-01,2002-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,79.407431,X,base year is 2015
+ITA,2003-09-01,2003-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,81.603940,X,base year is 2015
+ITA,2004-09-01,2004-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,83.334533,X,base year is 2015
+ITA,2005-09-01,2005-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,84.998565,X,base year is 2015
+ITA,2006-09-01,2006-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,86.795709,X,base year is 2015
+ITA,2007-09-01,2007-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,88.260059,X,base year is 2015
+ITA,2008-09-01,2008-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,91.588113,X,base year is 2015
+ITA,2009-09-01,2009-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,91.787806,X,base year is 2015
+ITA,2010-09-01,2010-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,93.252145,X,base year is 2015
+ITA,2011-09-01,2011-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,96.030137,X,base year is 2015
+ITA,2012-09-01,2012-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,99.100871,X,base year is 2015
+ITA,2013-09-01,2013-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,100.031393,X,base year is 2015
+ITA,2014-09-01,2014-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,99.845295,X,base year is 2015
+ITA,2015-09-01,2015-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.031393,X,base year is 2015
+ITA,2016-09-01,2016-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,100.131424,X,base year is 2015
+ITA,2017-09-01,2017-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,101.231770,X,base year is 2015
+ITA,2018-09-01,2018-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,102.632209,X,base year is 2015
+ITA,2019-09-01,2019-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,102.932303,X,base year is 2015
+ITA,2020-09-01,2020-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,102.332115,X,base year is 2015
+ITA,2021-09-01,2021-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,104.932931,X,base year is 2015
+ITA,2022-09-01,2022-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,114.235851,X,base year is 2015
+ITA,2023-09-01,2023-09-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,120.337766,X,base year is 2015
+ITA,2000-10-01,2000-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,75.680001,X,base year is 2015
+ITA,2001-10-01,2001-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,77.543716,X,base year is 2015
+ITA,2002-10-01,2002-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,79.607113,X,base year is 2015
+ITA,2003-10-01,2003-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,81.670501,X,base year is 2015
+ITA,2004-10-01,2004-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,83.334533,X,base year is 2015
+ITA,2005-10-01,2005-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,85.198248,X,base year is 2015
+ITA,2006-10-01,2006-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,86.729148,X,base year is 2015
+ITA,2007-10-01,2007-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,88.526302,X,base year is 2015
+ITA,2008-10-01,2008-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,91.588113,X,base year is 2015
+ITA,2009-10-01,2009-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,91.854357,X,base year is 2015
+ITA,2010-10-01,2010-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,93.451828,X,base year is 2015
+ITA,2011-10-01,2011-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,96.588453,X,base year is 2015
+ITA,2012-10-01,2012-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,99.100871,X,base year is 2015
+ITA,2013-10-01,2013-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,99.845295,X,base year is 2015
+ITA,2014-10-01,2014-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.938334,X,base year is 2015
+ITA,2015-10-01,2015-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.217451,X,base year is 2015
+ITA,2016-10-01,2016-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,100.031393,X,base year is 2015
+ITA,2017-10-01,2017-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,101.031707,X,base year is 2015
+ITA,2018-10-01,2018-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,102.632209,X,base year is 2015
+ITA,2019-10-01,2019-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,102.832272,X,base year is 2015
+ITA,2020-10-01,2020-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,102.532178,X,base year is 2015
+ITA,2021-10-01,2021-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,105.633151,X,base year is 2015
+ITA,2022-10-01,2022-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,118.137075,X,base year is 2015
+ITA,2023-10-01,2023-10-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,120.137703,X,base year is 2015
+ITA,2000-11-01,2000-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,75.879683,X,base year is 2015
+ITA,2001-11-01,2001-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,77.676837,X,base year is 2015
+ITA,2002-11-01,2002-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,79.873357,X,base year is 2015
+ITA,2003-11-01,2003-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,81.870193,X,base year is 2015
+ITA,2004-11-01,2004-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,83.401094,X,base year is 2015
+ITA,2005-11-01,2005-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,85.264799,X,base year is 2015
+ITA,2006-11-01,2006-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,86.795709,X,base year is 2015
+ITA,2007-11-01,2007-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,88.859107,X,base year is 2015
+ITA,2008-11-01,2008-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,91.255309,X,base year is 2015
+ITA,2009-11-01,2009-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,91.854357,X,base year is 2015
+ITA,2010-11-01,2010-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,93.451828,X,base year is 2015
+ITA,2011-11-01,2011-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,96.495403,X,base year is 2015
+ITA,2012-11-01,2012-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,98.914763,X,base year is 2015
+ITA,2013-11-01,2013-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,99.566127,X,base year is 2015
+ITA,2014-11-01,2014-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.752235,X,base year is 2015
+ITA,2015-11-01,2015-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,99.845295,X,base year is 2015
+ITA,2016-11-01,2016-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,99.931362,X,base year is 2015
+ITA,2017-11-01,2017-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,100.831644,X,base year is 2015
+ITA,2018-11-01,2018-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,102.432146,X,base year is 2015
+ITA,2019-11-01,2019-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,102.632209,X,base year is 2015
+ITA,2020-11-01,2020-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,102.432146,X,base year is 2015
+ITA,2021-11-01,2021-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,106.233339,X,base year is 2015
+ITA,2022-11-01,2022-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,118.737264,X,base year is 2015
+ITA,2023-11-01,2023-11-30,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,119.537515,X,base year is 2015
+ITA,2000-12-01,2000-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,75.946254,X,base year is 2015
+ITA,2001-12-01,2001-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,77.743398,X,base year is 2015
+ITA,2002-12-01,2002-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,79.939918,X,base year is 2015
+ITA,2003-12-01,2003-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,81.936744,X,base year is 2015
+ITA,2004-12-01,2004-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,83.600777,X,base year is 2015
+ITA,2005-12-01,2005-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,85.264799,X,base year is 2015
+ITA,2006-12-01,2006-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,86.862270,X,base year is 2015
+ITA,2007-12-01,2007-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,89.125350,X,base year is 2015
+ITA,2008-12-01,2008-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,91.122187,X,base year is 2015
+ITA,2009-12-01,2009-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,92.054039,X,base year is 2015
+ITA,2010-12-01,2010-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,93.784633,X,base year is 2015
+ITA,2011-12-01,2011-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,96.867610,X,base year is 2015
+ITA,2012-12-01,2012-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,99.100871,X,base year is 2015
+ITA,2013-12-01,2013-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,99.752235,X,base year is 2015
+ITA,2014-12-01,2014-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.752235,X,base year is 2015
+ITA,2015-12-01,2015-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,99.845295,X,base year is 2015
+ITA,2016-12-01,2016-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,100.331487,X,base year is 2015
+ITA,2017-12-01,2017-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,101.231770,X,base year is 2015
+ITA,2018-12-01,2018-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,102.332115,X,base year is 2015
+ITA,2019-12-01,2019-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,102.832272,X,base year is 2015
+ITA,2020-12-01,2020-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,102.632209,X,base year is 2015
+ITA,2021-12-01,2021-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,106.633465,X,base year is 2015
+ITA,2022-12-01,2022-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,119.037358,X,base year is 2015
+ITA,2023-12-01,2023-12-31,106,'380,Italy,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,119.737577,X,base year is 2015
+ITA,2001-01-01,2001-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,3.013186,E,
+ITA,2002-01-01,2002-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,4.936021,E,
+ITA,2003-01-01,2003-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,2.526129,E,
+ITA,2004-01-01,2004-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,3.993202,E,
+ITA,2005-01-01,2005-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,-0.653596,E,
+ITA,2006-01-01,2006-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,1.069074,E,
+ITA,2007-01-01,2007-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,2.603746,E,
+ITA,2008-01-01,2008-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,4.520222,E,
+ITA,2009-01-01,2009-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,3.793631,E,
+ITA,2010-01-01,2010-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,0.292398,E,
+ITA,2011-01-01,2011-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,1.621721,E,
+ITA,2012-01-01,2012-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,2.366861,E,
+ITA,2013-01-01,2013-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,3.082855,E,
+ITA,2014-01-01,2014-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,1.308406,E,
+ITA,2015-01-01,2015-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,0.092259,E,
+ITA,2016-01-01,2016-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,0.376769,E,
+ITA,2017-01-01,2017-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,2.297702,E,
+ITA,2018-01-01,2018-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,1.269531,E,
+ITA,2019-01-01,2019-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,0.675024,E,
+ITA,2020-01-01,2020-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,0.574713,E,
+ITA,2021-01-01,2021-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,0.666667,E,
+ITA,2022-01-01,2022-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,3.595080,E,
+ITA,2023-01-01,2023-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,12.602740,E,
+ITA,2024-01-01,2024-01-31,106,'380,Italy,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,5.758313,E,
+ITA,2001-02-01,2001-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,3.568079,E,
+ITA,2002-02-01,2002-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,4.351759,E,
+ITA,2003-02-01,2003-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,2.345796,E,
+ITA,2004-02-01,2004-02-29,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,3.989811,E,
+ITA,2005-02-01,2005-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,-0.408170,E,
+ITA,2006-02-01,2006-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,0.901634,E,
+ITA,2007-02-01,2007-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,2.518287,E,
+ITA,2008-02-01,2008-02-29,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,4.912831,E,
+ITA,2009-02-01,2009-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,3.474325,E,
+ITA,2010-02-01,2010-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,0.145986,E,
+ITA,2011-02-01,2011-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,2.022599,E,
+ITA,2012-02-01,2012-02-29,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,2.750492,E,
+ITA,2013-02-01,2013-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,2.390053,E,
+ITA,2014-02-01,2014-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,0.933709,E,
+ITA,2015-02-01,2015-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,1.017527,E,
+ITA,2016-02-01,2016-02-29,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,-0.366254,E,
+ITA,2017-02-01,2017-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,3.800000,E,
+ITA,2018-02-01,2018-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,-0.770713,E,
+ITA,2019-02-01,2019-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,1.747573,E,
+ITA,2020-02-01,2020-02-29,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,0.286260,E,
+ITA,2021-02-01,2021-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,0.380590,E,
+ITA,2022-02-01,2022-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,4.834123,E,
+ITA,2023-02-01,2023-02-28,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,13.200723,E,
+ITA,2024-02-01,2024-02-29,106,'380,Italy,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,3.913738,E,
+ITA,2001-03-01,2001-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,3.461176,E,
+ITA,2002-03-01,2002-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,4.249546,E,
+ITA,2003-03-01,2003-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,2.428451,E,
+ITA,2004-03-01,2004-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,3.725661,E,
+ITA,2005-03-01,2005-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,-0.244904,E,
+ITA,2006-03-01,2006-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,0.981998,E,
+ITA,2007-03-01,2007-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,2.350078,E,
+ITA,2008-03-01,2008-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,5.463184,E,
+ITA,2009-03-01,2009-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,3.003007,E,
+ITA,2010-03-01,2010-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,0.000000,E,
+ITA,2011-03-01,2011-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,2.323249,E,
+ITA,2012-03-01,2012-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,2.546527,E,
+ITA,2013-03-01,2013-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,2.387770,E,
+ITA,2014-03-01,2014-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,0.559701,E,
+ITA,2015-03-01,2015-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,1.113151,E,
+ITA,2016-03-01,2016-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,-0.383096,E,
+ITA,2017-03-01,2017-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,2.805611,E,
+ITA,2018-03-01,2018-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,0.487329,E,
+ITA,2019-03-01,2019-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,1.066925,E,
+ITA,2020-03-01,2020-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,1.055662,E,
+ITA,2021-03-01,2021-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,0.189934,E,
+ITA,2022-03-01,2022-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,5.781991,E,
+ITA,2023-03-01,2023-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,13.172043,E,
+ITA,2024-03-01,2024-03-31,106,'380,Italy,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,2.850356,E,
+ITA,2001-04-01,2001-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,3.631296,E,
+ITA,2002-04-01,2002-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,4.222819,E,
+ITA,2003-04-01,2003-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,2.241382,E,
+ITA,2004-04-01,2004-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,3.372672,E,
+ITA,2005-04-01,2005-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,-0.163132,E,
+ITA,2006-04-01,2006-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,0.898688,E,
+ITA,2007-04-01,2007-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,2.672074,E,
+ITA,2008-04-01,2008-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,5.599370,E,
+ITA,2009-04-01,2009-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,2.688577,E,
+ITA,2010-04-01,2010-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,-0.218188,E,
+ITA,2011-04-01,2011-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,2.323249,E,
+ITA,2012-04-01,2012-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,2.448586,E,
+ITA,2013-04-01,2013-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,2.676854,E,
+ITA,2014-04-01,2014-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,0.372442,E,
+ITA,2015-04-01,2015-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,1.020399,E,
+ITA,2016-04-01,2016-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,-0.091816,E,
+ITA,2017-04-01,2017-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,2.200000,E,
+ITA,2018-04-01,2018-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,1.174168,E,
+ITA,2019-04-01,2019-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,0.386847,E,
+ITA,2020-04-01,2020-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,2.793834,E,
+ITA,2021-04-01,2021-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,-0.468604,E,
+ITA,2022-04-01,2022-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,6.403013,E,
+ITA,2023-04-01,2023-04-30,106,'380,Italy,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,12.123894,E,
+ITA,2001-05-01,2001-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,3.996294,E,
+ITA,2002-05-01,2002-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,4.021446,E,
+ITA,2003-05-01,2003-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,2.319584,E,
+ITA,2004-05-01,2004-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,3.106631,E,
+ITA,2005-05-01,2005-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,-0.162867,E,
+ITA,2006-05-01,2006-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,0.978794,E,
+ITA,2007-05-01,2007-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,2.665587,E,
+ITA,2008-05-01,2008-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,5.822194,E,
+ITA,2009-05-01,2009-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,2.453529,E,
+ITA,2010-05-01,2010-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,-0.435414,E,
+ITA,2011-05-01,2011-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,3.024777,E,
+ITA,2012-05-01,2012-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,2.042805,E,
+ITA,2013-05-01,2013-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,3.050528,E,
+ITA,2014-05-01,2014-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,-0.185020,E,
+ITA,2015-05-01,2015-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,1.019443,E,
+ITA,2016-05-01,2016-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,0.215803,E,
+ITA,2017-05-01,2017-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,1.892430,E,
+ITA,2018-05-01,2018-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,1.857283,E,
+ITA,2019-05-01,2019-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,0.383877,E,
+ITA,2020-05-01,2020-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,2.581262,E,
+ITA,2021-05-01,2021-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,-0.745573,E,
+ITA,2022-05-01,2022-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,7.417840,E,
+ITA,2023-05-01,2023-05-31,106,'380,Italy,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,11.800699,E,
+ITA,2001-06-01,2001-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,4.363972,E,
+ITA,2002-06-01,2002-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,3.291812,E,
+ITA,2003-06-01,2003-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,2.928513,E,
+ITA,2004-06-01,2004-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,2.845179,E,
+ITA,2005-06-01,2005-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,-0.244095,E,
+ITA,2006-06-01,2006-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,1.305059,E,
+ITA,2007-06-01,2007-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,2.495971,E,
+ITA,2008-06-01,2008-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,6.127266,E,
+ITA,2009-06-01,2009-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,1.924503,E,
+ITA,2010-06-01,2010-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,-0.290487,E,
+ITA,2011-06-01,2011-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,3.049889,E,
+ITA,2012-06-01,2012-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,2.721078,E,
+ITA,2013-06-01,2013-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,2.838229,E,
+ITA,2014-06-01,2014-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,-0.643972,E,
+ITA,2015-06-01,2015-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,1.018479,E,
+ITA,2016-06-01,2016-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,0.223683,E,
+ITA,2017-06-01,2017-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,0.995025,E,
+ITA,2018-06-01,2018-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,2.364532,E,
+ITA,2019-06-01,2019-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,0.288739,E,
+ITA,2020-06-01,2020-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,2.399232,E,
+ITA,2021-06-01,2021-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,-0.562324,E,
+ITA,2022-06-01,2022-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,9.048068,E,
+ITA,2023-06-01,2023-06-30,106,'380,Italy,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,10.976664,E,
+ITA,2001-07-01,2001-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,4.651154,E,
+ITA,2002-07-01,2002-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,2.933344,E,
+ITA,2003-07-01,2003-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,3.281524,E,
+ITA,2004-07-01,2004-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,2.341127,E,
+ITA,2005-07-01,2005-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,-0.245092,E,
+ITA,2006-07-01,2006-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,1.801792,E,
+ITA,2007-07-01,2007-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,2.413519,E,
+ITA,2008-07-01,2008-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,6.284375,E,
+ITA,2009-07-01,2009-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,1.478198,E,
+ITA,2010-07-01,2010-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,-0.072839,E,
+ITA,2011-07-01,2011-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,2.323249,E,
+ITA,2012-07-01,2012-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,2.546527,E,
+ITA,2013-07-01,2013-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,2.960836,E,
+ITA,2014-07-01,2014-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,-0.742111,E,
+ITA,2015-07-01,2015-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,0.841115,E,
+ITA,2016-07-01,2016-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,0.632442,E,
+ITA,2017-07-01,2017-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,0.901804,E,
+ITA,2018-07-01,2018-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,2.383317,E,
+ITA,2019-07-01,2019-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,0.775946,E,
+ITA,2020-07-01,2020-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,1.443696,E,
+ITA,2021-07-01,2021-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,0.094877,E,
+ITA,2022-07-01,2022-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,9.952607,E,
+ITA,2023-07-01,2023-07-31,106,'380,Italy,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,10.689655,E,
+ITA,2001-08-01,2001-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,4.655499,E,
+ITA,2002-08-01,2002-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,2.846978,E,
+ITA,2003-08-01,2003-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,3.633222,E,
+ITA,2004-08-01,2004-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,1.919862,E,
+ITA,2005-08-01,2005-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,-0.163800,E,
+ITA,2006-08-01,2006-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,2.214927,E,
+ITA,2007-08-01,2007-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,2.407708,E,
+ITA,2008-08-01,2008-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,6.269588,E,
+ITA,2009-08-01,2009-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,1.032450,E,
+ITA,2010-08-01,2010-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,0.145986,E,
+ITA,2011-08-01,2011-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,2.223032,E,
+ITA,2012-08-01,2012-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,2.549024,E,
+ITA,2013-08-01,2013-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,2.676854,E,
+ITA,2014-08-01,2014-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,-0.465540,E,
+ITA,2015-08-01,2015-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,0.935446,E,
+ITA,2016-08-01,2016-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,0.934944,E,
+ITA,2017-08-01,2017-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,0.799201,E,
+ITA,2018-08-01,2018-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,2.180377,E,
+ITA,2019-08-01,2019-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,0.872939,E,
+ITA,2020-08-01,2020-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,1.057692,E,
+ITA,2021-08-01,2021-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,0.761180,E,
+ITA,2022-08-01,2022-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,10.481586,E,
+ITA,2023-08-01,2023-08-31,106,'380,Italy,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,9.914530,E,
+ITA,2001-09-01,2001-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,4.553902,E,
+ITA,2002-09-01,2002-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,3.111122,E,
+ITA,2003-09-01,2003-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,3.965509,E,
+ITA,2004-09-01,2004-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,1.077951,E,
+ITA,2005-09-01,2005-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,0.082028,E,
+ITA,2006-09-01,2006-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,2.459019,E,
+ITA,2007-09-01,2007-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,2.880003,E,
+ITA,2008-09-01,2008-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,5.754272,E,
+ITA,2009-09-01,2009-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,0.735295,E,
+ITA,2010-09-01,2010-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,0.364969,E,
+ITA,2011-09-01,2011-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,2.299988,E,
+ITA,2012-09-01,2012-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,2.834809,E,
+ITA,2013-09-01,2013-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,1.901135,E,
+ITA,2014-09-01,2014-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,-0.093282,E,
+ITA,2015-09-01,2015-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,1.493933,E,
+ITA,2016-09-01,2016-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,0.091995,E,
+ITA,2017-09-01,2017-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,1.400000,E,
+ITA,2018-09-01,2018-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,1.479290,E,
+ITA,2019-09-01,2019-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,0.680272,E,
+ITA,2020-09-01,2020-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,1.158301,E,
+ITA,2021-09-01,2021-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,1.145038,E,
+ITA,2022-09-01,2022-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,11.698113,E,
+ITA,2023-09-01,2023-09-30,106,'380,Italy,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,8.530405,E,
+ITA,2001-10-01,2001-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,4.541240,E,
+ITA,2002-10-01,2002-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,3.191493,E,
+ITA,2003-10-01,2003-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,4.209620,E,
+ITA,2004-10-01,2004-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,0.329761,E,
+ITA,2005-10-01,2005-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,0.246502,E,
+ITA,2006-10-01,2006-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,2.704915,E,
+ITA,2007-10-01,2007-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,3.431774,E,
+ITA,2008-10-01,2008-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,5.169753,E,
+ITA,2009-10-01,2009-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,0.586941,E,
+ITA,2010-10-01,2010-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,0.583516,E,
+ITA,2011-10-01,2011-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,2.501802,E,
+ITA,2012-10-01,2012-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,2.626462,E,
+ITA,2013-10-01,2013-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,1.421805,E,
+ITA,2014-10-01,2014-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,0.093456,E,
+ITA,2015-10-01,2015-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,1.867378,E,
+ITA,2016-10-01,2016-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,-0.175217,E,
+ITA,2017-10-01,2017-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,2.097902,E,
+ITA,2018-10-01,2018-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,0.684932,E,
+ITA,2019-10-01,2019-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,0.777454,E,
+ITA,2020-10-01,2020-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,1.350048,E,
+ITA,2021-10-01,2021-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,1.141770,E,
+ITA,2022-10-01,2022-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,13.546566,E,
+ITA,2023-10-01,2023-10-31,106,'380,Italy,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,6.462303,E,
+ITA,2001-11-01,2001-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,4.532838,E,
+ITA,2002-11-01,2002-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,3.362836,E,
+ITA,2003-11-01,2003-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,4.109581,E,
+ITA,2004-11-01,2004-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,-0.164474,E,
+ITA,2005-11-01,2005-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,0.576613,E,
+ITA,2006-11-01,2006-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,2.866500,E,
+ITA,2007-11-01,2007-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,3.742037,E,
+ITA,2008-11-01,2008-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,4.681504,E,
+ITA,2009-11-01,2009-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,0.513203,E,
+ITA,2010-11-01,2010-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,0.656450,E,
+ITA,2011-11-01,2011-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,3.125003,E,
+ITA,2012-11-01,2012-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,2.318838,E,
+ITA,2013-11-01,2013-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,1.321997,E,
+ITA,2014-11-01,2014-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,0.465984,E,
+ITA,2015-11-01,2015-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,1.484262,E,
+ITA,2016-11-01,2016-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,0.048234,E,
+ITA,2017-11-01,2017-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,1.888668,E,
+ITA,2018-11-01,2018-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,0.878049,E,
+ITA,2019-11-01,2019-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,0.773694,E,
+ITA,2020-11-01,2020-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,1.343570,E,
+ITA,2021-11-01,2021-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,1.515152,E,
+ITA,2022-11-01,2022-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,13.619403,E,
+ITA,2023-11-01,2023-11-30,106,'380,Italy,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,5.911330,E,
+ITA,2001-12-01,2001-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,4.315884,E,
+ITA,2002-12-01,2002-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,3.257040,E,
+ITA,2003-12-01,2003-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,3.921573,E,
+ITA,2004-12-01,2004-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,-0.328138,E,
+ITA,2005-12-01,2005-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,0.823046,E,
+ITA,2006-12-01,2006-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,2.693875,E,
+ITA,2007-12-01,2007-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,4.133538,E,
+ITA,2008-12-01,2008-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,4.274815,E,
+ITA,2009-12-01,2009-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,0.439239,E,
+ITA,2010-12-01,2010-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,0.801756,E,
+ITA,2011-12-01,2011-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,2.901299,E,
+ITA,2012-12-01,2012-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,2.608688,E,
+ITA,2013-12-01,2013-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,1.694924,E,
+ITA,2014-12-01,2014-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,-0.185192,E,
+ITA,2015-12-01,2015-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,1.205904,E,
+ITA,2016-12-01,2016-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,0.822034,E,
+ITA,2017-12-01,2017-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,1.483680,E,
+ITA,2018-12-01,2018-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,0.779727,E,
+ITA,2019-12-01,2019-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,0.773694,E,
+ITA,2020-12-01,2020-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,0.767754,E,
+ITA,2021-12-01,2021-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,2.857143,E,
+ITA,2022-12-01,2022-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,13.148148,E,
+ITA,2023-12-01,2023-12-31,106,'380,Italy,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,5.891980,E,

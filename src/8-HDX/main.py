@@ -1,44 +1,128 @@
 import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
-from pypalettes import load_cmap
+from matplotlib.animation import FuncAnimation
+import matplotlib.patheffects as pe
+from pypalettes import add_cmap
+from pyfonts import load_font
 
-counties = gpd.read_file("data/US-counties/ne_10m_admin_2_counties.shp")
-counties = counties[["NAME", "geometry", "CODE_LOCAL"]]
-counties["CODE_LOCAL"] = counties["CODE_LOCAL"].astype(int)
-counties["centroid"] = counties["geometry"].centroid
+italy = gpd.read_file("data/italy.geojson")
 
-# data source: https://data.humdata.org/dataset/social-connectedness-index
-df = pd.read_csv("data/county_county.tsv", sep="\t")
-df = df.rename(columns={"user_loc": "start", "fr_loc": "end", "scaled_sci": "SCI"})
-df = df.merge(counties, how="inner", left_on="start", right_on="CODE_LOCAL").drop(
-    columns=["geometry", "CODE_LOCAL"]
+df = pd.read_csv("data/consumer-price-indices_ita.csv")
+df = df.loc[df["Item"] == "Food price inflation"]
+df = df.drop(
+    columns=[
+        "Note",
+        "Iso3",
+        "Area",
+        # "Value",
+        "Year Code",
+        "Item",
+        "Item Code",
+        "Months Code",
+        "Element",
+        "Element Code",
+        "Unit",
+        "Area Code (M49)",
+        "Area Code",
+        "Flag",
+    ]
 )
-df = df.rename(columns={"NAME": "name_start", "centroid": "centroid_start"})
-df = df.merge(counties, how="inner", left_on="end", right_on="CODE_LOCAL").drop(
-    columns=["geometry", "CODE_LOCAL"]
+df["StartDate"] = pd.to_datetime(df["StartDate"])
+df = df.sort_values("StartDate")
+
+font = load_font(
+    "https://github.com/coreyhu/Urbanist/blob/main/fonts/ttf/Urbanist-Medium.ttf?raw=true"
 )
-df = df.rename(columns={"NAME": "name_end", "centroid": "centroid_end"})
-df = df.sample(100000, random_state=1)
+boldfont = load_font(
+    "https://github.com/coreyhu/Urbanist/blob/main/fonts/ttf/Urbanist-ExtraBold.ttf?raw=true"
+)
 
-avg_sci = df.groupby("name_end", as_index=False)["SCI"].median()
-counties = counties.merge(avg_sci, how="inner", left_on="NAME", right_on="name_end")
+green = "#008C45"
+white = "#F4F9FF"
+red = "#CD212A"
+cmap = add_cmap(colors=[green, white, red], name="ItalyFlag", cmap_type="continuous")
 
-cmap = load_cmap("Coconut", cmap_type="continuous")
+fig, ax = plt.subplots(dpi=500)
+fig.set_facecolor("#fff8f8")
 
-fig, ax = plt.subplots()
-ax.set_xlim(-180, -60)
-ax.set_ylim(17, 72)
-ax.axis("off")
+text_args = dict(
+    va="top",
+    ha="left",
+    transform=fig.transFigure,
+)
 
-counties.plot(ax=ax, column="SCI", edgecolor="black", linewidth=0.1, cmap=cmap)
 
-for i, row in df.iterrows():
-    x_start, y_start = row["centroid_start"].coords[0]
-    x_end, y_end = row["centroid_end"].coords[0]
-    ax.plot(
-        [x_start, x_end], [y_start, y_end], color="#000000", linewidth=0.012, alpha=0.5
+def update(date):
+
+    ax.clear()
+    ax.axis("off")
+    ax.set_xlim(2, 19)
+
+    subset = df[df["StartDate"] <= date]
+    value = df.loc[df["StartDate"] == date, "Value"].values[0]
+    color = cmap((value - df["Value"].min()) / (df["Value"].max() - df["Value"].min()))
+    print(date)
+
+    italy.plot(ax=ax, color=color, edgecolor="black", linewidth=0.2)
+
+    lineax = ax.inset_axes(bounds=[0, 0.1, 0.6, 0.22], transform=ax.transAxes)
+    lineax.set_ylim(df["Value"].min(), df["Value"].max() * 1.05)
+    lineax.axis("off")
+
+    lineax.scatter(
+        subset["StartDate"],
+        subset["Value"],
+        c=subset["Value"],
+        cmap=cmap,
+        s=7,
+        zorder=5,
     )
 
-plt.tight_layout()
-plt.savefig("src/8-HDX/hdx.png", dpi=500, bbox_inches="tight")
+    y_axis_values = [0, 4, 8, 12]
+    lineax.hlines(
+        y=y_axis_values,
+        xmin=df["StartDate"].min(),
+        xmax=df["StartDate"].max(),
+        color="black",
+        linewidth=0.3,
+        zorder=1,
+        alpha=0.4,
+    )
+    for y_value in y_axis_values:
+        lineax.text(
+            x=df["StartDate"].min() - pd.Timedelta(weeks=90),
+            y=y_value,
+            s=f"{y_value:.0f}%",
+            font=font,
+            size=5,
+            va="center",
+            ha="left",
+        )
+
+    ax.text(
+        x=0.24,
+        y=0.6,
+        s=f"Italy inflation - {str(date)[:4]}",
+        size=12,
+        font=font,
+        **text_args,
+    )
+    ax.text(
+        x=0.24,
+        y=0.55,
+        s=f"{value:.1f}%",
+        size=16,
+        color=color,
+        path_effects=[pe.Stroke(linewidth=1, foreground="black"), pe.Normal()],
+        font=boldfont,
+        **text_args,
+    )
+    ax.text(
+        x=0.6, y=0.7, s=f"#30DayMapChallenge - HDX", size=5, font=boldfont, **text_args
+    )
+    ax.text(x=0.6, y=0.7, s=f"\nJoseph Barbier", size=5, font=font, **text_args)
+
+
+anim = FuncAnimation(fig, update, frames=df["StartDate"])
+anim.save("src/8-HDX/hdx.gif", fps=15)
