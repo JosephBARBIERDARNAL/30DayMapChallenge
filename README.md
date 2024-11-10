@@ -58,19 +58,19 @@ My 2024 entries for the [30 Day Map Challenge](https://30daymapchallenge.com/), 
 
 <br>
 
-<!-- ## 9 - AI only
+## 9 - AI only
 
-![](src/9-ai_only/52fa1560-b1c1-4d01-accc-417761886478.jpeg)
+Skipped
 
 <br>
 
 ## 10 - Pen & Paper
 
-![]()
+Skipped
 
 <br>
 
-## 11 - Arctic
+<!-- ## 11 - Arctic
 
 ![](src/11-arctic/arctic.png)
 
