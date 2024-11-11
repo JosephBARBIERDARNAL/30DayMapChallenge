@@ -70,13 +70,13 @@ Skipped
 
 <br>
 
-<!-- ## 11 - Arctic
+## 11 - Arctic
 
 ![](src/11-arctic/arctic.png)
 
 <br>
 
-## 12 - Time and space
+<!-- ## 12 - Time and space
 
 ![](src/12-time_and_space/time_and_space.gif)
 

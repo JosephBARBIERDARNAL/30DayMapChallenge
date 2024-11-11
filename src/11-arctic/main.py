@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.patheffects as path_effects
 import geopandas as gpd
 import cartopy.crs as ccrs
 from pyfonts import load_font
@@ -14,8 +15,8 @@ font = load_font(
     "https://github.com/BornaIz/markazitext/blob/master/fonts/ttf/MarkaziText-Regular.ttf?raw=true"
 )
 
-land_color = "#33582d"
-sea_color = "#b7e7fb"
+land_color = "#743d20"
+sea_color = "#c2eafb"
 axis_color = "#777777"
 line_color = "#000000"
 text_color = "#ffffff"
@@ -31,7 +32,7 @@ ax.set_xlim(xlims[0] * zoomx, xlims[1] * zoomx)
 ax.set_ylim(ylims[0] * zoomy, ylims[1] * zoomy)
 ax.axis("off")
 
-world_projected.plot(ax=ax, color=land_color, edgecolor=land_color)
+world_projected.plot(ax=ax, color=land_color, alpha=0.6)
 
 axline = ax.inset_axes(bounds=(0.3, 0.46, 0.32, 0.17), transform=fig.transFigure)
 axline.axis("off")
@@ -72,9 +73,9 @@ for value in range(4, 8):
 axline.text(
     x=df["year"].min() + 1.2,
     y=4.1,
-    s="sea ice extent, in million square km",
+    s="sea ice extent, in million square km".upper(),
     color=axis_color,
-    size=8,
+    size=12,
     font=font,
 )
 
@@ -86,6 +87,10 @@ fig.text(
     size=30,
     ha="right",
     font=font,
+    path_effects=[
+        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Normal(),
+    ],
 )
 s = """
 Over the last 40 years, the extent of Arctic sea ice has been almost halved.
@@ -93,7 +98,18 @@ The main consequence is the accelerated warming of the region, which disrupts
 ecosystems and amplifies global climate change impacts.
 """
 fig.text(
-    x=0.88, y=0.82, s=s, color=text_color, size=14, ha="right", va="top", font=font
+    x=0.88,
+    y=0.82,
+    s=s,
+    color=text_color,
+    size=14,
+    ha="right",
+    va="top",
+    font=font,
+    path_effects=[
+        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Normal(),
+    ],
 )
 
 s = """
@@ -104,7 +120,18 @@ here is the lowest annual ice
 extent in September.
 """
 fig.text(
-    x=0.53, y=0.37, s=s, size=7.5, ha="center", va="top", color=text_color, font=font
+    x=0.53,
+    y=0.37,
+    s=s,
+    size=7.5,
+    ha="center",
+    va="top",
+    color=text_color,
+    font=font,
+    path_effects=[
+        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Normal(),
+    ],
 )
 
 s = """
@@ -116,15 +143,55 @@ concentration of at
 least 15%.
 """
 fig.text(
-    x=0.55, y=0.3, s=s, size=7.5, ha="center", va="top", color=text_color, font=font
+    x=0.55,
+    y=0.3,
+    s=s,
+    size=7.5,
+    ha="center",
+    va="top",
+    color=text_color,
+    font=font,
+    path_effects=[
+        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Normal(),
+    ],
 )
 
-fig.text(x=0.76, y=0.43, s="Data: NASA", color=text_color, size=11, font=font)
 fig.text(
-    x=0.14, y=0.45, s="#30daymapchallenge\n2024", color=text_color, size=10, font=font
+    x=0.76,
+    y=0.43,
+    s="Data: NASA",
+    color=text_color,
+    size=11,
+    font=font,
+    path_effects=[
+        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Normal(),
+    ],
 )
 fig.text(
-    x=0.14, y=0.4, s="Arctic\nJoseph Barbier", color=text_color, size=10, font=font
+    x=0.14,
+    y=0.45,
+    s="#30daymapchallenge\n2024",
+    color=text_color,
+    size=10,
+    font=font,
+    path_effects=[
+        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Normal(),
+    ],
+)
+fig.text(
+    x=0.14,
+    y=0.4,
+    s="Arctic\nJoseph Barbier",
+    color=text_color,
+    size=10,
+    font=font,
+    path_effects=[
+        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Normal(),
+    ],
 )
 
 plt.savefig("src/11-arctic/arctic.png", dpi=500, bbox_inches="tight")
