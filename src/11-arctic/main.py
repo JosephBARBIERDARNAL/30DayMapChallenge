@@ -32,7 +32,7 @@ ax.set_xlim(xlims[0] * zoomx, xlims[1] * zoomx)
 ax.set_ylim(ylims[0] * zoomy, ylims[1] * zoomy)
 ax.axis("off")
 
-world_projected.plot(ax=ax, color=land_color, alpha=0.6)
+world_projected.plot(ax=ax, color=land_color, alpha=0.7)
 
 axline = ax.inset_axes(bounds=(0.3, 0.46, 0.32, 0.17), transform=fig.transFigure)
 axline.axis("off")
@@ -71,11 +71,11 @@ for value in range(4, 8):
         linestyles="dashed",
     )
 axline.text(
-    x=df["year"].min() + 1.2,
+    x=df["year"].min() + 0.4,
     y=4.1,
     s="sea ice extent, in million square km".upper(),
     color=axis_color,
-    size=12,
+    size=9,
     font=font,
 )
 
@@ -88,7 +88,7 @@ fig.text(
     ha="right",
     font=font,
     path_effects=[
-        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Stroke(linewidth=0.5, foreground="black"),
         path_effects.Normal(),
     ],
 )
@@ -107,7 +107,7 @@ fig.text(
     va="top",
     font=font,
     path_effects=[
-        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Stroke(linewidth=0.5, foreground="black"),
         path_effects.Normal(),
     ],
 )
@@ -123,13 +123,13 @@ fig.text(
     x=0.53,
     y=0.37,
     s=s,
-    size=7.5,
+    size=8,
     ha="center",
     va="top",
     color=text_color,
     font=font,
     path_effects=[
-        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Stroke(linewidth=0.5, foreground="black"),
         path_effects.Normal(),
     ],
 )
@@ -143,16 +143,16 @@ concentration of at
 least 15%.
 """
 fig.text(
-    x=0.55,
+    x=0.555,
     y=0.3,
     s=s,
-    size=7.5,
+    size=9,
     ha="center",
     va="top",
     color=text_color,
     font=font,
     path_effects=[
-        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Stroke(linewidth=0.5, foreground="black"),
         path_effects.Normal(),
     ],
 )
@@ -162,10 +162,10 @@ fig.text(
     y=0.43,
     s="Data: NASA",
     color=text_color,
-    size=11,
+    size=17,
     font=font,
     path_effects=[
-        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Stroke(linewidth=0.5, foreground="black"),
         path_effects.Normal(),
     ],
 )
@@ -174,10 +174,10 @@ fig.text(
     y=0.45,
     s="#30daymapchallenge\n2024",
     color=text_color,
-    size=10,
+    size=11,
     font=font,
     path_effects=[
-        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Stroke(linewidth=0.5, foreground="black"),
         path_effects.Normal(),
     ],
 )
@@ -186,10 +186,10 @@ fig.text(
     y=0.4,
     s="Arctic\nJoseph Barbier",
     color=text_color,
-    size=10,
+    size=12,
     font=font,
     path_effects=[
-        path_effects.Stroke(linewidth=1, foreground="black"),
+        path_effects.Stroke(linewidth=0.5, foreground="black"),
         path_effects.Normal(),
     ],
 )

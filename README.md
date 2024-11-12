@@ -76,13 +76,13 @@ Skipped
 
 <br>
 
-<!-- ## 12 - Time and space
+## 12 - Time and space
 
 ![](src/12-time_and_space/time_and_space.gif)
 
 <br>
 
-## 13 - A new tool
+<!-- ## 13 - A new tool
 
 ![](src/13-a_new_tool/a_new_tool.svg)
 
