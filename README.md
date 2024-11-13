@@ -82,13 +82,13 @@ Skipped
 
 <br>
 
-<!-- ## 13 - A new tool
+## 13 - A new tool
 
-![](src/13-a_new_tool/a_new_tool.svg)
+![](src/13-a_new_tool/a_new_tool.gif)
 
 <br>
 
-## 14 - A world map
+<!-- ## 14 - A world map
 
 ![](src/14-a_world_map/a_world_map.png)
 

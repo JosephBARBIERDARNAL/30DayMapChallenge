@@ -111,3 +111,4 @@ def update(year):
 
 ani = FuncAnimation(fig, update, frames=df["Year"].unique())
 ani.save("src/12-time_and_space/time_and_space.gif", fps=8)
+ani.save("src/12-time_and_space/time_and_space.mp4", fps=8)
