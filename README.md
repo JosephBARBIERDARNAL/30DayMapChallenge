@@ -88,13 +88,13 @@ Skipped
 
 <br>
 
-<!-- ## 14 - A world map
+## 14 - A world map
 
 ![](src/14-a_world_map/a_world_map.png)
 
 <br>
 
-## 15 - My Data
+<!-- ## 15 - My Data
 
 ![](src/15-my_data/my_data.png)
 
