@@ -27,6 +27,7 @@ china = china.replace(map_province_names)
 
 china = china.merge(df, how="left", left_on="NAME_1", right_on="Division")
 china = china[["NAME_1", "Division", "Total", "Urban", "Rural", "geometry"]]
+china.to_file("data/china-counties.geojson")
 china["centroid"] = china["geometry"].centroid
 
 font = load_font(
