@@ -94,13 +94,13 @@ Skipped
 
 <br>
 
-<!-- ## 15 - My Data
+## 15 - My Data
 
 ![](src/15-my_data/my_data.png)
 
 <br>
 
-## 16 - Choropleth
+<!-- ## 16 - Choropleth
 
 ![](src/16-choropleth/choropleth.png)
 
