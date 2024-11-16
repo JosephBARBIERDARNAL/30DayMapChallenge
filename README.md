@@ -100,9 +100,8 @@ Skipped
 
 <br>
 
-<!-- ## 16 - Choropleth
+## 16 - Choropleth
 
 ![](src/16-choropleth/choropleth.png)
 
 <br>
- -->
