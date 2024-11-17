@@ -105,3 +105,11 @@ Skipped
 ![](src/16-choropleth/choropleth.png)
 
 <br>
+
+## 17 - Collaborative
+
+[Browse the map](https://josephbarbierdarnal.github.io/30DayMapChallenge/collaborative)
+
+![](src/17-collaborative/collaborative.gif)
+
+<br>
