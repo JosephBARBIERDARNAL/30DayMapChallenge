@@ -49,7 +49,7 @@ world.plot(ax=ax, column="useImperial", edgecolor="#000000", lw=0.15, cmap=cmap)
 
 fig.text(
     x=0.83,
-    y=1.07,
+    y=1.08,
     s="Metric vs Imperial System",
     size=30,
     ha="right",
@@ -59,14 +59,13 @@ fig.text(
 )
 description = """
 Most countries worldwide have adopted and primarily use the metric
-system, which is based on seven base units like the meter and kilogram.
-
+system, which is based on seven base units like the meter and kilogram.\n
 However, a few countries still primarily rely on the Imperial system,
 creating added confusion in international trade and standardization.
 """
 fig.text(
     x=0.83,
-    y=1.03,
+    y=1.035,
     s=description,
     size=12,
     ha="right",
