@@ -113,3 +113,27 @@ Skipped
 ![](src/17-collaborative/collaborative.gif)
 
 <br>
+
+## 18 - 3D
+
+Skipped
+
+<br>
+
+## 19 - Typography
+
+Skipped
+
+<br>
+
+## 20 - OSM
+
+Skipped
+
+<br>
+
+## 21 - Conflict
+
+![](src/21-conflict/conflict.png)
+
+<br>
